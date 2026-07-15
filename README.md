@@ -129,7 +129,7 @@ Production-ready ML API supporting single and batch loan approval prediction.
 ### Preview
 
 <p align="center">
-  <img src="loan-prediction-2" width="900">
+  <img src="loan-prediction-2.png" width="900">
 </p>
 
 ### Tech Stack
