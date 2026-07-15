@@ -95,46 +95,58 @@ Docker • GitHub Actions • CI/CD • Render • SQLite • PostgreSQL
 
 # 🚀 Featured Projects
 
-<div align="center">
+## 🩺 Healthcare Risk Prediction System
 
-<a href="https://github.com/rehabalsayed/healthcare-risk-system">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rehabalsayed&repo=healthcare-risk-system&theme=tokyonight"/>
-</a>
+Production-ready ML API for diabetes risk prediction.
 
-<br><br>
+### Preview
 
-<a href="https://github.com/rehabalsayed/loan-approval-prediction-api">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rehabalsayed&repo=loan-approval-prediction-api&theme=tokyonight"/>
-</a>
+<p align="center">
+  <img src="assets/healthcare-swagger.png" width="900">
+</p>
 
-</div>
+### Tech Stack
+
+`FastAPI` `CatBoost` `PostgreSQL` `Docker` `MLflow` `CI/CD`
+
+### Links
+
+- 💻 GitHub Repository  
+  https://github.com/rehabalsayed/healthcare-risk-system
+
+- 🌐 Live Demo  
+  https://healthcare-risk-system.onrender.com
+
+- 📄 Swagger  
+  https://healthcare-risk-system.onrender.com/docs
 
 ---
 
-## 🌐 Live Deployments
+## 💰 Loan Approval Prediction API
 
-### 🩺 Healthcare Risk Prediction
+Production-ready ML API supporting single and batch loan approval prediction.
 
-- 🚀 Live API: https://healthcare-risk-system.onrender.com
-- 📄 Swagger Docs: https://healthcare-risk-system.onrender.com/docs
+### Preview
 
-### 💰 Loan Approval Prediction
+<p align="center">
+  <img src="assets/loan-swagger.png" width="900">
+</p>
 
-- 🚀 Live API: https://loan-approval-prediction-api-frhk.onrender.com
-- 📄 Swagger Docs: https://loan-approval-prediction-api-frhk.onrender.com/docs
+### Tech Stack
+
+`FastAPI` `Random Forest` `SQLite` `Docker` `CI/CD`
+
+### Links
+
+- 💻 GitHub Repository  
+  https://github.com/rehabalsayed/loan-approval-prediction-api
+
+- 🌐 Live Demo  
+  https://loan-approval-prediction-api-frhk.onrender.com
+
+- 📄 Swagger  
+  https://loan-approval-prediction-api-frhk.onrender.com/docs
   
----
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rehabalsayed&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehabalsayed&layout=compact&theme=tokyonight"/>
-
-</div>
-
 ---
 
 # 🔥 GitHub Streak
@@ -152,16 +164,6 @@ Docker • GitHub Actions • CI/CD • Render • SQLite • PostgreSQL
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rehabalsayed&theme=tokyo-night"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rehabalsayed&theme=tokyonight&margin-w=15&margin-h=15"/>
 
 </div>
 
