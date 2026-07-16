@@ -97,56 +97,43 @@ Docker • GitHub Actions • CI/CD • Render • SQLite • PostgreSQL
 
 ## 🩺 Healthcare Risk Prediction System
 
-Production-ready ML API for diabetes risk prediction.
-
-### Preview
+Production-ready Machine Learning API for diabetes risk prediction using **CatBoost**, **FastAPI**, **PostgreSQL**, and **Docker**, with **MLflow** experiment tracking and automated **CI/CD** deployment.
 
 <p align="center">
-  <img src="predict-response-ahmed-ali.png" width="900">
+  <img src="predict-response-ahmed-ali.png" alt="Healthcare Risk Prediction System" width="900"/>
 </p>
 
-### Tech Stack
+**Tech Stack**
 
-`FastAPI` `CatBoost` `PostgreSQL` `Docker` `MLflow` `CI/CD`
+`Python` `FastAPI` `CatBoost` `PostgreSQL` `SQLAlchemy` `Docker`
+`MLflow` `GitHub Actions` `Render`
 
-### Links
+**Project Links**
 
-- 💻 GitHub Repository  
-  https://github.com/rehabalsayed/healthcare-risk-system
-
-- 🌐 Live Demo  
-  https://healthcare-risk-system.onrender.com
-
-- 📄 Swagger  
-  https://healthcare-risk-system.onrender.com/docs
+- 💻 **GitHub:** https://github.com/rehabalsayed/healthcare-risk-system
+- 🌐 **Live Demo:** https://healthcare-risk-system.onrender.com
+- 📄 **Swagger Docs:** https://healthcare-risk-system.onrender.com/docs
 
 ---
 
 ## 💰 Loan Approval Prediction API
 
-Production-ready ML API supporting single and batch loan approval prediction.
-
-### Preview
+Production-ready Machine Learning API for loan approval prediction supporting both **single** and **batch inference**, with prediction logging, Docker deployment, and automated CI/CD.
 
 <p align="center">
-  <img src="loan-prediction-2.png" width="900">
+  <img src="loan-prediction-2.png" alt="Loan Approval Prediction API" width="900"/>
 </p>
 
-### Tech Stack
+**Tech Stack**
 
-`FastAPI` `Random Forest` `SQLite` `Docker` `CI/CD`
+`Python` `FastAPI` `Scikit-learn` `SQLite`
+`Docker` `GitHub Actions` `Render`
 
-### Links
+**Project Links**
 
-- 💻 GitHub Repository  
-  https://github.com/rehabalsayed/loan-approval-prediction-api
-
-- 🌐 Live Demo  
-  https://loan-approval-prediction-api-frhk.onrender.com
-
-- 📄 Swagger  
-  https://loan-approval-prediction-api-frhk.onrender.com/docs
-  
+- 💻 **GitHub:** https://github.com/rehabalsayed/loan-approval-prediction-api
+- 🌐 **Live Demo:** https://loan-approval-prediction-api-frhk.onrender.com
+- 📄 **Swagger Docs:** https://loan-approval-prediction-api-frhk.onrender.com/docs
 ---
 
 # 🔥 GitHub Streak
